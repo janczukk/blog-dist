@@ -1,0 +1,58 @@
+4:"$Sreact.fragment"
+5:I[3476,["231","static/chunks/231-4b2291181e24a789.js","185","static/chunks/app/layout-1f1de8156f1fad19.js"],"default",1]
+6:I[9275,[],""]
+7:I[1343,[],""]
+8:I[231,["231","static/chunks/231-4b2291181e24a789.js","51","static/chunks/51-0b4220cc734397f2.js","571","static/chunks/app/terms/page-4e7a032f1933bc0b.js"],""]
+9:I[4404,["231","static/chunks/231-4b2291181e24a789.js","185","static/chunks/app/layout-1f1de8156f1fad19.js"],"GoogleAnalytics"]
+b:I[3120,[],"OutletBoundary"]
+d:I[3120,[],"MetadataBoundary"]
+f:I[3120,[],"ViewportBoundary"]
+11:I[6130,[],""]
+1:HL["/_next/static/media/5455839c73f146e7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/caa565fcf3c527f5.css","style"]
+3:HL["/_next/static/css/f6079ea85b4cc7c3.css","style"]
+0:{"P":null,"b":"dbIsHasoZQilbunhQNImE","p":"","c":["","terms"],"i":false,"f":[[["",{"children":["terms",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/caa565fcf3c527f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"Offbeat"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}],["$","meta",null,{"name":"theme-color","content":"#000"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml"}]]}],["$","body",null,{"className":"__className_af6c42 dark:bg-slate-900 dark:text-slate-400 tracking-normal","children":[["$","div",null,{"className":"min-h-[100dvh]","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"flex h-16 items-center px-4 border-t","children":[["$","div",null,{"className":"flex items-center sm:space-x-4","children":["$","span",null,{"className":"text-sm text-black/50","children":"© Karolina Janczuk 2024"}]}],["$","div",null,{"className":"ml-auto flex items-center gap-2","children":[["$","$L8",null,{"href":"/terms","className":"text-sm text-black/50 hover:underline","children":"Terms"}],["$","$L8",null,{"href":"/privacy","className":"text-sm text-black/50 hover:underline","children":"Privacy"}]]}]]}]]}],["$","$L9",null,{"gaId":"G-3LVT5JL70R"}]]}]}]]}],{"children":["terms",["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","terms","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f6079ea85b4cc7c3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":"$Lc"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","2Z1C4QABMH-fZd757sPnS",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":"$11","s":false,"S":true}
+12:I[8173,["231","static/chunks/231-4b2291181e24a789.js","51","static/chunks/51-0b4220cc734397f2.js","571","static/chunks/app/terms/page-4e7a032f1933bc0b.js"],"Image"]
+13:I[1454,["231","static/chunks/231-4b2291181e24a789.js","51","static/chunks/51-0b4220cc734397f2.js","571","static/chunks/app/terms/page-4e7a032f1933bc0b.js"],"X",1]
+14:I[387,["231","static/chunks/231-4b2291181e24a789.js","51","static/chunks/51-0b4220cc734397f2.js","571","static/chunks/app/terms/page-4e7a032f1933bc0b.js"],"Facebook",1]
+15:I[3791,["231","static/chunks/231-4b2291181e24a789.js","51","static/chunks/51-0b4220cc734397f2.js","571","static/chunks/app/terms/page-4e7a032f1933bc0b.js"],"Instagram",1]
+16:Td05,<h1>Terms of Service</h1>
+<p>Effective Date: November 19, 2024</p>
+<p>Welcome to OffbeatRoad.com! These Terms of Service ("Terms") govern your use of the OffbeatRoad.com website. By accessing or using our website, you agree to these Terms. If you do not agree, you may not use our services.</p>
+<h2>1. Use of the Website</h2>
+<p>OffbeatRoad.com is a travel blog. By using our website, you agree to:</p>
+<ul>
+<li>Use the website for lawful purposes only.</li>
+<li>Refrain from copying, distributing, or modifying any part of the website without our prior written consent.</li>
+<li>Not interfere with the website’s operation or security.</li>
+</ul>
+<h2>2. Intellectual Property</h2>
+<p>All content, including text, images, and graphics on OffbeatRoad.com is the property of Karolina Janczuk or my licensors. You may use the content for personal, non-commercial purposes. Any other use requires our written permission.</p>
+<h2>3. User Responsibility</h2>
+<p>You are responsible for:</p>
+<ul>
+<li>Ensuring that your use of the website complies with all applicable laws.</li>
+<li>The accuracy of any information you provide to us.</li>
+</ul>
+<p>We reserve the right to suspend or terminate access to the website if these Terms are violated.</p>
+<h2>4. Affiliate Links</h2>
+<p>Our website contains affiliate links to third-party websites. These links are provided for your convenience, and we may earn a commission if you make a purchase through them. We are not responsible for the content, privacy policies, or practices of third-party websites. Use them at your own risk.</p>
+<h2>5. Content Disclaimer</h2>
+<p>The information provided on OffbeatRoad.com is intended for informational and educational purposes only. While we strive to ensure accuracy, we do not guarantee that the content is free from errors or omissions. You should independently verify any information before relying on it.</p>
+<h2>6. Limitation of Liability</h2>
+<p>To the maximum extent permitted by law, we shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your use of OffbeatRoad.com or the inability to use the website.</p>
+<h2>7. Privacy Policy</h2>
+<p>Your use of OffbeatRoad.com is also governed by our <a href="/privacy">Privacy Policy</a>, which outlines how we collect, use, and protect your information. By using our website, you agree to the terms of the Privacy Policy.</p>
+<h2>8. Changes to These Terms</h2>
+<p>We may update these Terms from time to time to reflect changes in our practices, technologies, or legal obligations. We will notify you of significant changes by posting the updated Terms on this page. Your continued use of the website after the changes take effect constitutes your acceptance of the new Terms.</p>
+<h2>9. Governing Law</h2>
+<p>These Terms are governed by and construed in accordance with the laws of the Washington State, without regard to its conflict of law principles.</p>
+<h2>10. Contact Us</h2>
+<p>If you have any questions about these Terms or the operation of our website, you can contact us:<br>
+<strong>Operator:</strong> Karolina Janczuk
+<strong>Email:</strong> contact@offbeatroad.com</p>
+<p>Thank you for using OffbeatRoad.com! Your exploration and learning are important to us, and we are dedicated to providing a valuable and enjoyable experience.</p>
+a:["$","div",null,{"className":"min-w-full w-full flex flex-col items-center justify-between","children":["$","div",null,{"className":"flex flex-col gap-4 max-w-full w-full relative","children":[["$","div",null,{"className":"flex items-start justify-between p-3 md:p-6 w-full","children":[["$","$L8",null,{"href":"/","children":["$","$L12",null,{"src":{"src":"/_next/static/media/logo-full-color-transparent.b854edc3.svg","height":652,"width":3162,"blurWidth":0,"blurHeight":0},"alt":"Offbeat Road","className":"max-w-[50%] md:max-w-[30%]"}]}],["$","div",null,{"className":"flex gap-2 m-2","children":[["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}]]}]]}],["$","div",null,{"className":"markdown_markdown__PVjEH","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]}]
+10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Offbeat Road"}],["$","meta","2",{"name":"description","content":"Journey is the Destination"}],["$","meta","3",{"name":"keywords","content":"travel,adventure,road,photography,offbeat,off the beaten path,hiking,sailing,diving,snorkeling,culture,history,nature,geography,geology"}],["$","meta","4",{"property":"og:title","content":"Offbeat Road"}],["$","meta","5",{"property":"og:description","content":"Journey is the Destination"}],["$","meta","6",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"Offbeat Road - Journey is the Destination"}],["$","meta","10",{"property":"og:image","content":"https://offbeatroad.com/opengraph-image.jpg?aef5b943a8daa07a"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Offbeat Road"}],["$","meta","13",{"name":"twitter:description","content":"Journey is the Destination"}],["$","meta","14",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","15",{"name":"twitter:image:width","content":"1600"}],["$","meta","16",{"name":"twitter:image:height","content":"900"}],["$","meta","17",{"name":"twitter:image:alt","content":"Offbeat Road - Journey is the Destination"}],["$","meta","18",{"name":"twitter:image","content":"https://offbeatroad.com/twitter-image.jpg?c6dfb85e44d3cc80"}]]
+c:null
